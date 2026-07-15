@@ -28,3 +28,7 @@ I contributed to the development and maintenance of ERP ClodiOs frontend feature
 Software Developer Intern
 
 Jun 2025 – Aug 2025
+
+## Project Preview
+
+![ERP Dashboard](gcg.png)
